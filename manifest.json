@@ -1,0 +1,12 @@
+{
+  "display_name": "Persona Filter | 面具过滤",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Custom",
+  "version": "1.0.0",
+  "homePage": "",
+  "auto_update": false
+}
